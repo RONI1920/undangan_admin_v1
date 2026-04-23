@@ -23,13 +23,16 @@ Nama:
 Rudi Putra & Sri Alva Harional S.Pd
 
 Tanggal:
-2 Mei 2026
+Sabtu, 2 Mei 2026
 
 Waktu:
-10:00 - s/d
+10:00 - Selesai
 
 Tempat:
-Mempelai Laki-laki
+Rumah Mempelai Laki-Laki
+Jl. Pantai Air Manis,
+Rt 03/ 002 Padang Selatam
+Kota Padang
 
 Untuk informasi detail lokasi, rundown acara, dan undangan digital, silakan klik link berikut:
 ${link}
